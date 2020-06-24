@@ -14,7 +14,9 @@
         android:theme="@style/AppTheme">
         <activity android:name=".ListView"></activity>
         <activity android:name=".TampilSemuaPgw" />
-        <activity android:name=".TampilPegawai" />
+        <activity android:name=".TampilPegawai">
+
+        </activity>
         <activity android:name=".MainActivityy" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
